@@ -1,0 +1,76 @@
+﻿.divi_p {
+    margin-top:0px;
+    height: 520px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    position: relative;
+    justify-content:center;
+    display:flex;
+    border-radius: 0px 0px 5px 5px;
+     
+}
+.divprofile {
+    background-color: white;
+    margin-left: 10px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 10px;
+    align-content:center;
+    display: block;
+    height: 95%;
+    width: 35%;
+}
+.divlogo {
+    background-color: white;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 80px;
+    width: 75%;
+    position: relative;
+    justify-content: center;
+    border-radius: 5px 5px 0px 0px;
+    display: flex;
+}
+.divfunc {
+    background-color: pink;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: auto;
+    margin-bottom:auto;
+    height: 95%;
+    width: 65%;
+}
+
+
+.textBlock {
+    background-color: white; /* Green */
+    border: 2px solid #1E9EEA;
+    border-radius: 3px 3px 3px 3px;
+    color: #1E9EEA;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: solid;
+    display: block;
+    font-size: 15px;
+    margin: 4px 2px;
+}
+
+.column {
+    margin-top: 5px;
+    display: inline-block;
+    position: relative;
+}
+
+
+.Reg_div {
+    height: 650px;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    background-color: white;
+    border-radius: 2%;
+}
